@@ -29,9 +29,6 @@ Removed madVR. If you want to use madVR, upgrade to Full version of the codec pa
     <docsUrl>http://codecguide.com/faq.htm</docsUrl>
     <packageSourceUrl>https://github.com/zersh01/chocolatey-k-litecodecpack-standard</packageSourceUrl>
     <bugTrackerUrl>http://codecs.forumotion.net/f3-support</bugTrackerUrl>
-    <dependencies> 
-       <dependency id="kb2919355" />
-    </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
