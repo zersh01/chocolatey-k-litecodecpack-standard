@@ -1,9 +1,9 @@
 ﻿$packageName = 'k-litecodecpack-standard'
 $installerType = 'exe'
-$url = 'https://files3.codecguide.com/K-Lite_Codec_Pack_1710_Standard.exe'
+$url = 'https://files3.codecguide.com/K-Lite_Codec_Pack_1720_Standard.exe'
 $silentArgs = '/VERYSILENT /NORESTART'
                                          
-$checksum = 'd5c02b6ba95aeda24569cb32df45012c'
+$checksum = '26f871b211ea31cbebed26bd92117341'
 
 $checksumType = 'md5'
  
